@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:15:26:14 -0400] "GET /test/? HTTP/1.1" 200 2079 http-bio-8080-exec-1 842
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:15:26:14 -0400] "GET /test/websocketendpoint HTTP/1.1" 101 - http-bio-8080-exec-3 15
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:16:02:05 -0400] "GET /test/? HTTP/1.1" 200 2089 http-bio-8080-exec-1 720
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:16:02:05 -0400] "GET /test/websocketendpoint HTTP/1.1" 101 - http-bio-8080-exec-3 12
